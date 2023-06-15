@@ -53,9 +53,5 @@ The Structurizr Helm chart deploys Structurizr On premise flavor. Structurizr is
 ## TODO
 
 - [ ] Encryption
-- [ ] Authentication
-  - [ ] File
-  - [ ] LDAP
-  - [ ] SAML
 - [ ] Redis sessions
 - [ ] Bucket data
